@@ -27,7 +27,7 @@ function GlobalStyle() {
       }
       /* ./App fit Height */ 
     `}</style>
-  );
+  ); 
 }
 
 function Titulo(props) {
